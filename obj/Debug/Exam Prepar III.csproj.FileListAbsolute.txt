@@ -1,0 +1,7 @@
+C:\Users\Peter\source\repos\Charity Marathon\bin\Debug\Charity Marathon.exe.config
+C:\Users\Peter\source\repos\Charity Marathon\bin\Debug\Charity Marathon.exe
+C:\Users\Peter\source\repos\Charity Marathon\bin\Debug\Charity Marathon.pdb
+C:\Users\Peter\source\repos\Charity Marathon\obj\Debug\Exam Prepar III.csprojResolveAssemblyReference.cache
+C:\Users\Peter\source\repos\Charity Marathon\obj\Debug\Exam Prepar III.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\Charity Marathon\obj\Debug\Charity Marathon.exe
+C:\Users\Peter\source\repos\Charity Marathon\obj\Debug\Charity Marathon.pdb
